@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Fun learning 🎉
+  * DIY 🧰
+* BE alone 🌴
+  * Movies 🎥
+* Enjoy Life 😃
+  * Boardgame 🎲
+  * So much to do 🎄
